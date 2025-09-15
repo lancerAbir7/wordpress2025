@@ -1,3 +1,4 @@
+// Lancer Abir
 // HTML theme image, style, script function
 // path --> index.php
 <?php echo get_template_directory_uri(); ?>/assets/images/logo.png
